@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/icon.png" alt="Icon Image" style="max-width: 200px; margin-bottom: 20px;">
+    <img src="assets/ICON.png" alt="Icon Image" style="max-width: 200px; margin-bottom: 20px;">
     <h1>Indoor Navigation with Bidirectional A*</h1>
     <h4>Alexi, Aloysius, Bryan, Cavell, Jay, Johnathan</h4>
     <h4>March 23, 2025</h4>
