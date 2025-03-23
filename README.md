@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <img src="assets/icon.png" alt="Icon Image" style="max-width: 200px; margin-bottom: 20px;">
     <h1>Indoor Navigation with Bidirectional A*</h1>
     <h4>Alexi, Aloysius, Bryan, Cavell, Jay, Johnathan</h4>
@@ -89,12 +89,12 @@ matplotlib>=3.4.0
 
 To analyze the performance of different pathfinding algorithms (e.g., A*, Dijkstra, Bidirectional A*), check out the notebook `Algorithm_Benchmarks.ipynb`
 
-<div style="text-align: center;">
+<div align="center">
     <img src="assets/Improvements.png" alt="Icon Image" style="max-width: 70%; margin-bottom: 20px;">
     <P>Comparisons of various improvements</p>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
     <img src="assets/PathfindingComparison.png" alt="Icon Image" style="max-width: 70%; margin-bottom: 20px;">
     <P>Comparisons of various pathfinding algorithms</p>
 </div>
@@ -104,7 +104,7 @@ To analyze the performance of different pathfinding algorithms (e.g., A*, Dijkst
 
 ## 📸 Demo
 
-<div style="text-align: center;">
+<div align="center">
     <img src="assets/Demo.png" alt="Icon Image" style="max-width: 50%; margin-bottom: 20px;">
     <P>Demo of Minimum Viable Product</p>
 </div>
